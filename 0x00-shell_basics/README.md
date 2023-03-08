@@ -1,4 +1,4 @@
 #!/bin/bash
-pwd ls cd ls -l ls -al
+pwd ls cd ls -l ls -al ls -aln
 
 
